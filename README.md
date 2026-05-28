@@ -34,6 +34,7 @@ pandas
 matplotlib
 scikit-learn
 Jupyter Notebook
+
 2. Polymer Property Prediction
 
 Machine learning models for predicting polymer/material properties from formulation or processing parameters.
@@ -57,6 +58,7 @@ Technologies
 scikit-learn
 pandas
 numpy
+
 3. Materials Dashboard
 
 An interactive web application for materials data analytics.
@@ -71,6 +73,7 @@ Technologies
 Streamlit
 pandas
 matplotlib
+
 4. Polymer Literature RAG Assistant
 
 An AI-powered literature assistant for polymer and materials science papers.
@@ -87,6 +90,7 @@ LangChain
 ChromaDB
 RAG pipeline
 PyPDF
+
 5. SMILES Property Explorer
 
 A cheminformatics toolkit for molecular descriptor analysis and structure-property exploration.
@@ -100,6 +104,7 @@ Technologies
 RDKit
 pandas
 scikit-learn
+
 6. AI Materials Copilot
 
 A unified AI assistant platform for digital materials R&D.
