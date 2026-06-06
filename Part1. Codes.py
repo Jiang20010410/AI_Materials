@@ -11,7 +11,9 @@ warnings.filterwarnings('ignore')
 # 1. 读取数据 & 基本探索
 # ════════════════════════════════════════════════════════════════
 df = pd.read_csv('polymer_electrolyte.csv')
- 
+#查看数据库大致信息
+df
+
 print("=" * 55)
 print("  STEP 1 — 基本信息")
 print("=" * 55)
